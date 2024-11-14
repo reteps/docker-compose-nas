@@ -10,7 +10,10 @@ docker-compose.override.yml
 /prowlarr
 /lidarr
 /bazarr
+/gluetun
 /qbittorrent
+/recyclarr
+/jellyfin
 /pia
 /pia-shared
 /letsencrypt
